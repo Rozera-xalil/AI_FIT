@@ -1,8 +1,8 @@
-# 💪 KRD FIT – Smart Fitness Coach
+# 💪 Smart Fitness Coach
 
 ## 🌍 Overview
 
-KRD FIT is a modern smart fitness application designed for users, combining elegant UI, intelligent recommendations, and a smooth animated experience.
+KRD FIT is a  smart fitness application designed for users, combining elegant UI, intelligent recommendations, and a smooth animated experience.
 
 The app focuses on delivering personalized workout plans, tracking progress, and motivating users through a clean and engaging interface.
 
