@@ -23,13 +23,19 @@ The app focuses on delivering personalized workout plans, tracking progress, and
 
 All screens are displayed in order to reflect the full app flow:
 
-![Screen 1](https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz1.png)
-![Screen 2](https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz2.png)
-![Screen 3](https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz3.png)
-![Screen 4](https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz4.png)
-![Screen 5](https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz5.png)
-![Screen 6](https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz6.png)
-![Screen 7](https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz7.png)
+![Screen 1](https://github.com/Rozera-xalil/AI_FIT/blob/main/Front_end/app_ui/roz1.png?raw=true)
+
+![Screen 2](https://github.com/Rozera-xalil/AI_FIT/blob/main/Front_end/app_ui/roz2.png?raw=true)
+
+![Screen 3](https://github.com/Rozera-xalil/AI_FIT/blob/main/Front_end/app_ui/roz3.png?raw=true)
+
+![Screen 4](https://github.com/Rozera-xalil/AI_FIT/blob/main/Front_end/app_ui/roz4.png?raw=true)
+
+![Screen 5](https://github.com/Rozera-xalil/AI_FIT/blob/main/Front_end/app_ui/roz5.png?raw=true)
+
+![Screen 6](https://github.com/Rozera-xalil/AI_FIT/blob/main/Front_end/app_ui/roz6.png?raw=true)
+
+![Screen 7](https://github.com/Rozera-xalil/AI_FIT/blob/main/Front_end/app_ui/roz7.png?raw=true)
 
 ---
 
