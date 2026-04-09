@@ -23,13 +23,13 @@ The app focuses on delivering personalized workout plans, tracking progress, and
 
 All screens are displayed in order to reflect the full app flow:
 
-![Screen 1](Front_end/app_ui/roz1.png)
-![Screen 2](Front_end/app_ui/roz2.png)
-![Screen 3](Front_end/app_ui/roz3.png)
-![Screen 4](Front_end/app_ui/roz4.png)
-![Screen 5](Front_end/app_ui/roz5.png)
-![Screen 6](Front_end/app_ui/roz6.png)
-![Screen 7](Front_end/app_ui/roz7.png)
+![Screen 1](https://raw.githubusercontent.com/Rozera-xalil/gymsense-ml/main/Front_end/app_ui/roz1.png)
+![Screen 2](https://raw.githubusercontent.com/Rozera-xalil/gymsense-ml/main/Front_end/app_ui/roz2.png)
+![Screen 3](https://raw.githubusercontent.com/Rozera-xalil/gymsense-ml/main/Front_end/app_ui/roz3.png)
+![Screen 4](https://raw.githubusercontent.com/Rozera-xalil/gymsense-ml/main/Front_end/app_ui/roz4.png)
+![Screen 5](https://raw.githubusercontent.com/Rozera-xalil/gymsense-ml/main/Front_end/app_ui/roz5.png)
+![Screen 6](https://raw.githubusercontent.com/Rozera-xalil/gymsense-ml/main/Front_end/app_ui/roz6.png)
+![Screen 7](https://raw.githubusercontent.com/Rozera-xalil/gymsense-ml/main/Front_end/app_ui/roz7.png)
 
 ---
 
