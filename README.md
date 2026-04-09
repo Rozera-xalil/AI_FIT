@@ -23,23 +23,19 @@ The app focuses on delivering personalized workout plans, tracking progress, and
 All screens are displayed in order to reflect the full app flow:
 ## 🎨 UI Preview
 
-<div align="center">
-  <table style="width:100%">
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz1.png" width="250"></td>
-      <td><img src="https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz2.png" width="250"></td>
-      <td><img src="https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz3.png" width="250"></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz4.png" width="250"></td>
-      <td><img src="https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz5.png" width="250"></td>
-      <td><img src="https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz6.png" width="250"></td>
-    </tr>
-  </table>
-  <img src="https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz7.png" width="250">
-</div>
+<img width="3072" height="2304" alt="roz1" src="https://github.com/user-attachments/assets/afd1e5d6-0874-4bad-98a5-6f31a033404f" />
 
-![Screen 1](./Front_end/app_ui/roz1.png)
+
+<img width="3072" height="2304" alt="roz2" src="https://github.com/user-attachments/assets/699e6a89-ad32-4ce3-aa03-11f141e68536" />
+
+
+<img width="3072" height="2304" alt="roz5" src="https://github.com/user-attachments/assets/61cad819-ffb0-4477-8deb-84cfddfaf511" />
+<img width="3072" height="2304" alt="roz4" src="https://github.com/user-attachments/assets/dd3cbd91-bc56-4a39-890a-8a34561dc68c" />
+<img width="3072" height="2304" alt="roz3" src="https://github.com/user-attachments/assets/796df3bb-f5a4-4054-b3b6-14494892b31e" />
+<img width="3072" height="2304" alt="roz7" src="https://github.com/user-attachments/assets/15cbd459-48eb-4a36-a315-2fef10ac60a1" />
+<img width="3072" height="2304" alt="roz6" src="https://github.com/user-attachments/assets/f8d3e37b-70e3-40e3-99dd-1cea56a83e3a" />
+
+
 ---
 
 
