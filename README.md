@@ -38,6 +38,8 @@ All screens are displayed in order to reflect the full app flow:
   </table>
   <img src="https://raw.githubusercontent.com/Rozera-xalil/AI_FIT/main/Front_end/app_ui/roz7.png" width="250">
 </div>
+
+![Screen 1](./Front_end/app_ui/roz1.png)
 ---
 
 
